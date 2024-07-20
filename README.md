@@ -13,7 +13,7 @@ Restaurant API - проект получения данных о категор�
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-https://github.com/Anna9449/record_pets_project.git
+https://github.com/Anna9449/restaurant_project.git
 ```
 ```
 cd restaurant_project
@@ -65,8 +65,9 @@ python3 manage.py runserver
 ### Документация к API:
 
 Документация к API проекта доступна по ссылкам:
-http://127.0.0.1:8000/api/schema/swagger-ui/
-http://127.0.0.1:8000/api/schema/redoc/
+
+- http://127.0.0.1:8000/api/schema/swagger-ui/
+- http://127.0.0.1:8000/api/schema/redoc/
 
 ### Автор
 [![name badge](https://img.shields.io/badge/Anna_Pestova-3776AB?logo=github&logoColor=white)](https://github.com/Anna9449)
